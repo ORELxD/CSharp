@@ -1,0 +1,7 @@
+C:\Users\ORELM\source\repos\HomeworkLession5\HomeworkLession5\bin\Debug\HomeworkLession5.exe.config
+C:\Users\ORELM\source\repos\HomeworkLession5\HomeworkLession5\bin\Debug\HomeworkLession5.exe
+C:\Users\ORELM\source\repos\HomeworkLession5\HomeworkLession5\bin\Debug\HomeworkLession5.pdb
+C:\Users\ORELM\source\repos\HomeworkLession5\HomeworkLession5\obj\Debug\HomeworkLession5.csprojAssemblyReference.cache
+C:\Users\ORELM\source\repos\HomeworkLession5\HomeworkLession5\obj\Debug\HomeworkLession5.csproj.CoreCompileInputs.cache
+C:\Users\ORELM\source\repos\HomeworkLession5\HomeworkLession5\obj\Debug\HomeworkLession5.exe
+C:\Users\ORELM\source\repos\HomeworkLession5\HomeworkLession5\obj\Debug\HomeworkLession5.pdb
