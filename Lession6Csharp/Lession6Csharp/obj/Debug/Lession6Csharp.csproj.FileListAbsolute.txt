@@ -1,0 +1,7 @@
+C:\Users\ORELM\source\repos\Lession6Csharp\Lession6Csharp\obj\Debug\Lession6Csharp.csprojAssemblyReference.cache
+C:\Users\ORELM\source\repos\Lession6Csharp\Lession6Csharp\obj\Debug\Lession6Csharp.csproj.CoreCompileInputs.cache
+C:\Users\ORELM\source\repos\Lession6Csharp\Lession6Csharp\bin\Debug\Lession6Csharp.exe.config
+C:\Users\ORELM\source\repos\Lession6Csharp\Lession6Csharp\bin\Debug\Lession6Csharp.exe
+C:\Users\ORELM\source\repos\Lession6Csharp\Lession6Csharp\bin\Debug\Lession6Csharp.pdb
+C:\Users\ORELM\source\repos\Lession6Csharp\Lession6Csharp\obj\Debug\Lession6Csharp.exe
+C:\Users\ORELM\source\repos\Lession6Csharp\Lession6Csharp\obj\Debug\Lession6Csharp.pdb
