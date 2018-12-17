@@ -1,0 +1,7 @@
+C:\Users\ORELM\source\repos\HomeWorkLession8\HomeWorkLession8\bin\Debug\HomeWorkLession8.exe.config
+C:\Users\ORELM\source\repos\HomeWorkLession8\HomeWorkLession8\bin\Debug\HomeWorkLession8.exe
+C:\Users\ORELM\source\repos\HomeWorkLession8\HomeWorkLession8\bin\Debug\HomeWorkLession8.pdb
+C:\Users\ORELM\source\repos\HomeWorkLession8\HomeWorkLession8\obj\Debug\HomeWorkLession8.csprojAssemblyReference.cache
+C:\Users\ORELM\source\repos\HomeWorkLession8\HomeWorkLession8\obj\Debug\HomeWorkLession8.csproj.CoreCompileInputs.cache
+C:\Users\ORELM\source\repos\HomeWorkLession8\HomeWorkLession8\obj\Debug\HomeWorkLession8.exe
+C:\Users\ORELM\source\repos\HomeWorkLession8\HomeWorkLession8\obj\Debug\HomeWorkLession8.pdb
