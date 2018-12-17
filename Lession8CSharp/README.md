@@ -124,6 +124,6 @@ namespace Lession8CSharp
 }
 
 ```
-*Result:
+* Result:
 
 ![picture](c1.JPG)
