@@ -1,0 +1,7 @@
+C:\Users\ORELM\source\repos\Lession8CSharp\Lession8CSharp\obj\Debug\Lession8CSharp.csprojAssemblyReference.cache
+C:\Users\ORELM\source\repos\Lession8CSharp\Lession8CSharp\obj\Debug\Lession8CSharp.csproj.CoreCompileInputs.cache
+C:\Users\ORELM\source\repos\Lession8CSharp\Lession8CSharp\bin\Debug\Lession8CSharp.exe.config
+C:\Users\ORELM\source\repos\Lession8CSharp\Lession8CSharp\bin\Debug\Lession8CSharp.exe
+C:\Users\ORELM\source\repos\Lession8CSharp\Lession8CSharp\bin\Debug\Lession8CSharp.pdb
+C:\Users\ORELM\source\repos\Lession8CSharp\Lession8CSharp\obj\Debug\Lession8CSharp.exe
+C:\Users\ORELM\source\repos\Lession8CSharp\Lession8CSharp\obj\Debug\Lession8CSharp.pdb
