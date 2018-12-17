@@ -6,7 +6,7 @@
 ![picture](https://github.com/ORELxD/CSharp/blob/master/HomeWorkLession7/C%231.JPG)
 
 
-
+***
 * result:
 
 
