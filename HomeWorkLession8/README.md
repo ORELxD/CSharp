@@ -1,4 +1,4 @@
-#Exercise Class lession8
+# Exercise Class lession8
 
 * code
 
@@ -124,6 +124,6 @@ namespace Lession8CSharp
 }
 
 ```
-*Result:
+* Result:
 
 ![picture](c1.JPG)
