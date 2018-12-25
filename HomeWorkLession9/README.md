@@ -3,12 +3,12 @@
 ### Screen Saver
 
 * code:
-![picture](þþProgram.JPG)
+![picture](https://github.com/ORELxD/CSharp/blob/master/HomeWorkLession9/%E2%80%8F%E2%80%8FProgram.JPG)
 
-![picture]þþ(Circle.JPG)
+![picture](https://github.com/ORELxD/CSharp/blob/master/HomeWorkLession9/%E2%80%8F%E2%80%8FCircle.JPG)
 
-![picture](þþSquare.JPG)
+![picture](https://github.com/ORELxD/CSharp/blob/master/HomeWorkLession9/%E2%80%8F%E2%80%8FSquare.JPG)
 
 * Result(exaple):
-![picture](þþResultEx.JPG)
+![picture](https://github.com/ORELxD/CSharp/blob/master/HomeWorkLession9/%E2%80%8F%E2%80%8FResultEx.JPG)
 
