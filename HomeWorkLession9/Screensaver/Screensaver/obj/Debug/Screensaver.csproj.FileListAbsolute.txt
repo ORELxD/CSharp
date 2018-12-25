@@ -1,0 +1,7 @@
+C:\Users\OREL\source\repos\Screensaver\Screensaver\bin\Debug\Screensaver.exe.config
+C:\Users\OREL\source\repos\Screensaver\Screensaver\bin\Debug\Screensaver.exe
+C:\Users\OREL\source\repos\Screensaver\Screensaver\bin\Debug\Screensaver.pdb
+C:\Users\OREL\source\repos\Screensaver\Screensaver\obj\Debug\Screensaver.csprojResolveAssemblyReference.cache
+C:\Users\OREL\source\repos\Screensaver\Screensaver\obj\Debug\Screensaver.csproj.CoreCompileInputs.cache
+C:\Users\OREL\source\repos\Screensaver\Screensaver\obj\Debug\Screensaver.exe
+C:\Users\OREL\source\repos\Screensaver\Screensaver\obj\Debug\Screensaver.pdb
