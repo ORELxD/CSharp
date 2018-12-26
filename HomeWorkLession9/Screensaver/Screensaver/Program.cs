@@ -6,9 +6,6 @@ namespace Screensaver
     {
         static void Main(string[] args)
         {
-            Circle C = new Circle();
-            Square S = new Square();
-
             int N=1;
             do
             {
@@ -22,6 +19,7 @@ namespace Screensaver
             switch (N)
             {
                 case 1:
+                    Circle C = new Circle();
                     Console.WriteLine("Enter X:");
                     C.AxisX = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("Enter Y:");
@@ -34,6 +32,7 @@ namespace Screensaver
                     Console.WriteLine(C.getInfo());
                     break;
                 case 2:
+                    Square S = new Square();
                     Console.WriteLine("Enter X:");
                     S.AxisX = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("Enter Y:");
