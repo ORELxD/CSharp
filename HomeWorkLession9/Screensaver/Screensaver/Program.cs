@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Screensaver
 {
@@ -42,14 +42,11 @@ namespace Screensaver
                     Console.WriteLine("Enter size of 'Side':");
                     S.Side = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("\n");
-                    Console.WriteLine(C.getInfo());
+                    Console.WriteLine(S.getInfo());
                     break;
                 default:
                     break;
             }
-
-
-
         }
     }
 }
