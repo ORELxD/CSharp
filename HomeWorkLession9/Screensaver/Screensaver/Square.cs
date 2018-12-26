@@ -28,7 +28,7 @@ namespace Screensaver
 
         public string getInfo()
         {
-            return $"AxisX: {AxisX}\nAxisY: {AxisY}\nColor: {Color}Radios: {Side}\nResult calcultion of space is: {Calc_Space()}\nResult calcultion of scope is: {Clac_Scope()}\n";
+            return $"AxisX--> {AxisX}\nAxisY--> {AxisY}\nColor--> {Color}Radios--> {Side}\nResult calcultion of space is: {Calc_Space()}\nResult calcultion of scope is: {Clac_Scope()}\n";
         }
 
         public Square()
