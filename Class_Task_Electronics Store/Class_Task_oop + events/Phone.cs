@@ -24,7 +24,7 @@ namespace Class_Task_oop___events
 
         public override string GetInfo()
         {
-            return base.GetInfo()+ $"SmartPhone{SmartPhone}, PhoneNumber{PhoneNumber}";
+            return base.GetInfo()+ $"SmartPhone: {SmartPhone}, PhoneNumber: {PhoneNumber}";
         }
 
         public string SendMessasge<T>(T message,string DestPhone)
