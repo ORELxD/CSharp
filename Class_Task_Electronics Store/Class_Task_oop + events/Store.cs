@@ -45,7 +45,7 @@ namespace Class_Task_oop___events
      
         public string Buy(int device)
         {
-            return $"You need to pay:{ElecDevices[device].Price}, Warranty you get is: {ElecDevices[device].Warranty}";
+            return $"You need to pay: {ElecDevices[device].Price}, Warranty you get is: {ElecDevices[device].Warranty}";
         }
 
     }
