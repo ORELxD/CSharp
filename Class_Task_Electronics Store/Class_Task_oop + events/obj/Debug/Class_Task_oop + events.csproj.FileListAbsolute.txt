@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Class_Task_oop + events\Class_Task_oop + events\bin\Debug\Class_Task_oop + events.exe.config
+C:\Users\Student\Desktop\Class_Task_oop + events\Class_Task_oop + events\bin\Debug\Class_Task_oop + events.exe
+C:\Users\Student\Desktop\Class_Task_oop + events\Class_Task_oop + events\bin\Debug\Class_Task_oop + events.pdb
+C:\Users\Student\Desktop\Class_Task_oop + events\Class_Task_oop + events\obj\Debug\Class_Task_oop + events.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Class_Task_oop + events\Class_Task_oop + events\obj\Debug\Class_Task_oop + events.exe
+C:\Users\Student\Desktop\Class_Task_oop + events\Class_Task_oop + events\obj\Debug\Class_Task_oop + events.pdb
