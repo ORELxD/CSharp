@@ -1,4 +1,4 @@
-#Sort by lembada
+# Sort by lembada
 
-**sult:
+** Result:
 ![picture](https://github.com/ORELxD/CSharp/blob/master/LambadaSort/aaa.JPG)
